@@ -1,18 +1,5 @@
 # PyJAMaz Conformance Releases
-Prebuilt bytecode-only (source-less) CPython 3.12 wheels for conformance testing.
-
-## Requirements
-- Python **3.12**
-- Linux or macOS (uses Unix-domain sockets)
-
-## Installation
-
-```bash
-python3.12 -m venv .venv
-source .venv/bin/activate
-
-pip install gp-0.6.7/pyjamaz-0.1.4-cp312-none-any.whl
-```
+Prebuilt bytecode-only (source-less) binaries and CPython 3.12 wheel for conformance testing.
 
 ## Usage
 ```bash
