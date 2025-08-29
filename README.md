@@ -20,6 +20,6 @@ Options:
 ## Quick start
 
 ```bash
-pyjamaz fuzzer target --db-path ./db --force-overwrite --socket-path /tmp/jam_target.sock
+pyjamaz fuzzer target --db-path ./db --socket-path /tmp/jam_target.sock
 ```
 
